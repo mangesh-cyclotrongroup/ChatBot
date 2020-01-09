@@ -30,6 +30,7 @@ C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\bin\Debug\netcoreapp2
 C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\bin\Debug\netcoreapp2.1\SiteRequest.runtimeconfig.dev.json
 C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\bin\Debug\netcoreapp2.1\SiteRequest.dll
 C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\bin\Debug\netcoreapp2.1\SiteRequest.pdb
+C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\obj\Debug\netcoreapp2.1\SiteRequest.csprojAssemblyReference.cache
 C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\obj\Debug\netcoreapp2.1\SiteRequest.RazorAssemblyInfo.cache
 C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\obj\Debug\netcoreapp2.1\SiteRequest.RazorAssemblyInfo.cs
 C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\obj\Debug\netcoreapp2.1\SiteRequest.AssemblyInfoInputs.cache
@@ -37,4 +38,3 @@ C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\obj\Debug\netcoreapp2
 C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\obj\Debug\netcoreapp2.1\SiteRequest.RazorTargetAssemblyInfo.cache
 C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\obj\Debug\netcoreapp2.1\SiteRequest.dll
 C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\obj\Debug\netcoreapp2.1\SiteRequest.pdb
-C:\Users\MangeshNikam\source\repos\SiteRequest\SiteRequest\obj\Debug\netcoreapp2.1\SiteRequest.csprojAssemblyReference.cache
